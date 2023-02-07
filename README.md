@@ -23,3 +23,8 @@ Source `trashbox.sh` in your shell rc file.
   - List the paths relative to the trashbox of all files and directories in the
     trashbox.
 
+### Environment Variables
+
+- `TRASHBOX`
+  - Holds the location of the trashbox.
+
