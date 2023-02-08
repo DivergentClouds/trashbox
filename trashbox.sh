@@ -1,5 +1,3 @@
-#!/usr/bin/env sh
-
 export TRASHBOX="${XDG_DATA_HOME:-$HOME}/.trashbox"
 
 # moves 1 or more files or directories to the trashbox
